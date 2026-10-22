@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: bd-shop-tushar
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
